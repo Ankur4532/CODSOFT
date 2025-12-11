@@ -1,6 +1,6 @@
-# Utkarsh Mishra's CODSOFT Android App Development Projects
+# Ankur Singh's CODSOFT Android App Development Projects
 
-Welcome to Utkarsh Mishra's repository containing a collection of Android Studio projects! This repository houses five exciting projects: VTOP, QUOTES, ToDo, TimeTuner, and Notify. Each project serves a specific purpose and showcases different functionalities.
+Welcome to Ankur's repository containing a collection of Android Studio projects! This repository houses five exciting projects: VTOP, QUOTES, ToDo, TimeTuner, and Notify. Each project serves a specific purpose and showcases different functionalities.
 
 ## Table of Contents
 
@@ -71,10 +71,5 @@ Enhance your notification game with Notify. Download now and take control of you
 - VTOP uses Firebase Realtime Database for storing attendance data.
 - QUOTES and ToDo applications utilize an SQL database for task and quote storage.
 
-## Developer
 
-These projects were developed by Utkarsh Mishra. You can find more about the developer and explore the portfolio at [Utkarsh Mishra's Portfolio](https://utkarsh140503.github.io/Portfolio/).
 
-## License
-
-Each project belongs to Utkarsh Mishra. Please contact Utkarsh at the email: **utm1403@gmail.com** before using.
